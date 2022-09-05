@@ -1,0 +1,5 @@
+alias +jumpthrow"+jump;-attack";
+alias -jumpthrow -jump;
+bind x +jumpthrow;
+
+EA密码：Wyforever200204050000
